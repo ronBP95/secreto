@@ -1,0 +1,25 @@
+{
+  "name": "secreto",
+  "version": "1.0.0",
+  "description": "1 file(s) copied.",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronBP95/secreto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronBP95/secreto/issues"
+  },
+  "homepage": "https://github.com/ronBP95/secreto#readme",
+  "dependencies": {
+    "discord-interactions": "^3.2.0",
+    "express": "^4.18.2"
+  }
+}
