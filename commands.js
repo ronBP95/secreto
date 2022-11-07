@@ -1,6 +1,9 @@
 import { getRPSChoices } from './game.js';
 import { capitalize, DiscordRequest } from './utils.js';
 
+// Necessary ID's
+let appId = process.env.APP_ID
+
 export async function HasGuildCommands(appId, guildId, commands) {
   if (guildId === '' || appId === '') return;
 
