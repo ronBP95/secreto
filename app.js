@@ -7,7 +7,7 @@ const client = new Client({
   ]
 }); //create new client
 
-client.on('ready', () => {
+client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
