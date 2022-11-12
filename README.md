@@ -1,1 +1,3 @@
-I may consider returning to python after creating some bots via Glitch.com.
+# Secreto
+
+Secreto is a discord bot that has planned features for anonymous voting and messaging with tools for moderation and filtering.
